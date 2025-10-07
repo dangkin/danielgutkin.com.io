@@ -1,0 +1,6 @@
+title: "Daniel Gutkin"
+description: "Data analysis & LLM projects"
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
