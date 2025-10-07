@@ -1,6 +1,6 @@
-title: "Daniel Gutkin"
-description: "Data analysis & LLM projects"
-theme: minima
+title: "Daniel Gutkin's Vibecoding Jenga Emporium"
+description: "Move medium speed and break things"
+theme: time-machine
 plugins:
   - jekyll-feed
   - jekyll-sitemap
