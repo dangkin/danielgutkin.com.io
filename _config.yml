@@ -1,7 +1,8 @@
 title: "Daniel Gutkin's Vibecoding Jenga Emporium"
 description: "Move medium speed and break things"
 #theme: jekyll-theme-time-machine
-remote_theme: daviddarnes/alembic
+remote_theme: mmistakes/minimal-mistakes
 plugins:
+  - jekyll-remote-feed
   - jekyll-feed
   - jekyll-sitemap
